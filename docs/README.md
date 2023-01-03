@@ -2,10 +2,10 @@
 
 Este proyecto tiene como objetivo poder modificar una grilla desde el site editor del admin sin la necesidad de modificar el codigo fuente de la aplicacion y las combinaciones especificas de estas modificaciones se pueden cambiar desde el codigo, de igual forma este proyecto hace parte de los Custom Component del tema base de: [Store Theme Easy](https://github.com/Maikyjar/store-theme-easy).
 
-![imagen](customGrid1.png)
-![imagen](customGrid2.png)
-![imagen](customGrid3.png)
-![imagen](customGrid4.png)
+![imagen](customGrid1.PNG)
+![imagen](customGrid2.PNG)
+![imagen](customGrid3.PNG)
+![imagen](customGrid4.PNG)
 
 # Configuraciones
 
